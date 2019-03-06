@@ -1,4 +1,4 @@
-# Liner Regression Lab
+# Linear Regression Lab
 
 Recently, the annual number of driver deaths per 100,000 for the selected age groups was as follows:
 
